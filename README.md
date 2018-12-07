@@ -1,1 +1,1 @@
-# Mathematics-_Behind_Machine_Learning
+# Mathematics_Behind_Machine_Learning
